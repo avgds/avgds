@@ -4,7 +4,7 @@ Meu nome é Ana Goulart
 
 - Sou estudante da [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvovidos
+- Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📧
 
